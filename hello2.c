@@ -10,7 +10,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-  printF("your name"):
+  printF("Ahmed Albalushi"):
   printf("William przystup");
   printf("electrical engineering:);
 
